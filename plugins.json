@@ -1,0 +1,24 @@
+[
+    {
+        "jarFileSize": 30134,
+        "fileHash": "sha256-4b246f5e14e3e0dd3226cac35ffde9a32def2ac8b5ccb941e2aa961adaf86d01",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/nzhirov007-byte/cloudstream-ru-test",
+        "fileSize": 9236,
+        "status": 3,
+        "language": "ru",
+        "authors": [
+            "nzhirov007-byte"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "KinoRuTest",
+        "jarUrl": "https://raw.githubusercontent.com/nzhirov007-byte/cloudstream-ru-test/builds/KinoRuTest.jar",
+        "description": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0442\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u0441 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u043c \u0432\u0438\u0434\u0435\u043e",
+        "url": "https://raw.githubusercontent.com/nzhirov007-byte/cloudstream-ru-test/builds/KinoRuTest.cs3",
+        "name": "KinoRuTest",
+        "jarHash": "sha256-3765be496895a66bcf72dc7d191363e4cbd82a4593bf61cbfd17aa953dd93ca7"
+    }
+]
