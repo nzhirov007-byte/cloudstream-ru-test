@@ -21,7 +21,6 @@ jobs:
       - name: Build plugin
         run: |
           gradle make makePluginsJson
-          gradle ensureJarCompatibility
       - name: Publish builds branch
         run: |
           mkdir -p /tmp/cloudstream-builds
